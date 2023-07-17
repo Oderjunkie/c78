@@ -1,0 +1,6 @@
+compile = "make"
+run = "./main"
+hidden = ["**/*.[od]"]
+
+[nix]
+channel = "stable-22_11"
